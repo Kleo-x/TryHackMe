@@ -28,8 +28,8 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | [x]      | [Welcome](https://tryhackme.com/jr/welcome)                                   | Intro               | [done](write-ups/level1/Welcome)         |
 | [x]      | [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | Intro               |                                          |
 | [x]      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
-| [ ]      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
-| [ ]      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
+| [x]      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
+| [   ]      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
 | [ ]      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
 | [ ]      | [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)         | Intro               |                                          |
 | [ ]      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
