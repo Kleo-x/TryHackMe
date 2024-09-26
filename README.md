@@ -33,10 +33,10 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | [x]      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
 | [x]      | [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)         | Intro               |                                          |
 | [ ]      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
-| [ ]      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)     | Intro               |                                          |
-| [ ]      | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)       | Intro               |                                          |
-| [ ]      | [Tmux](https://tryhackme.com/room/rptmux)                                     | Tooling             |                                          |
-| [ ]      | [Nmap](https://tryhackme.com/room/furthernmap)                                | Tooling             |                                          |
+| [x]      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)     | Intro               |                                          |
+| [x]      | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)       | Intro               |                                          |
+| [x]      | [Tmux](https://tryhackme.com/room/rptmux)                                     | Tooling             |                                          |
+| [x]      | [Nmap](https://tryhackme.com/room/furthernmap)                                | Tooling             |                                          |
 | [ ]      | [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)        | Tooling             |                                          |
 | [ ]      | [Hydra](https://tryhackme.com/room/hydra)                                     | Tooling             |                                          |
 | [ ]      | [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)                      | Tooling             | [done](write-ups/level2/Linux%20PrivEsc) |
